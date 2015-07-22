@@ -1,6 +1,6 @@
 # cl-light-bdd
 
-FIXME: description
+FIXME: Light BDD for clojure.
 
 ## Installation
 
