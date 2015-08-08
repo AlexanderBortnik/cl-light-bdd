@@ -1,6 +1,6 @@
 # cl-light-bdd
 
-FIXME: Light BDD for clojure.
+FIXME: Light BDD for Clojure.
 
 ## Installation
 
@@ -8,7 +8,7 @@ Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
+FIXME: explanation of
 
     $ java -jar cl-light-bdd-0.1.0-standalone.jar [args]
 
